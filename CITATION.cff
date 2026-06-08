@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "AI vs Artificial Wisdom: Sustainability Simulation"
+message: "If you use this conceptual simulation framework, please cite it as below."
+type: generic
+authors:
+  - name: "Master / inchacomusho / InchaComisho"
+    alias: "InchaComisho"
+abstract: "A conceptual simulation framework comparing AI-only acceleration under current civilization values with Artificial Wisdom-guided intelligence under natural-law-based evaluation."
+version: "1.0"
+date-released: "2026-06-08"
+license: "CC-BY-SA-4.0"
+url: "https://github.com/InchaComisho/AI-vs-AW-Sustainability-Simulation"
+repository-code: "https://github.com/InchaComisho/AI-vs-AW-Sustainability-Simulation"
+keywords:
+  - AI vs Artificial Wisdom
+  - AI vs AW
+  - Sustainability Simulation
+  - Artificial Wisdom
+  - AI safety
+  - AI alignment
+  - Systemic Risk
+  - Natural Law
+  - Six Principles
+  - Civilization OS
