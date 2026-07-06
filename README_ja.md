@@ -2,6 +2,8 @@
 
 [English version](README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## AIと人工叡智（AW）のどちらが持続的か？
 
 このリポジトリは、次の二つの道を比較するための概念的シミュレーション・フレームワークである。
