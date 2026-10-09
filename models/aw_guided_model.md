@@ -1,5 +1,7 @@
 # AW-guided Model
 
+[日本語版はこちら / Japanese version](aw_guided_model_ja.md)
+
 ## Definition
 
 The AW-guided model represents a pathway in which AI capability is filtered through Artificial Wisdom evaluation before being applied.

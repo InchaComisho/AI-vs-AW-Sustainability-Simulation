@@ -1,5 +1,7 @@
 # AI-only Model
 
+[日本語版はこちら / Japanese version](ai_only_model_ja.md)
+
 ## Definition
 
 The AI-only model represents a pathway in which AI capability increases while the underlying civilization paradigm remains unchanged.

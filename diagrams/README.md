@@ -1,5 +1,7 @@
 # Diagrams
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 This directory is reserved for diagrams that visualize the AI-only and AW-guided pathways.
 
 Suggested diagrams:

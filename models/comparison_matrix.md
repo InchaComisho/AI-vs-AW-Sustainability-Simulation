@@ -1,5 +1,7 @@
 # Comparison Matrix
 
+[日本語版はこちら / Japanese version](comparison_matrix_ja.md)
+
 | Dimension | AI-only Acceleration | AW-guided Intelligence |
 |---|---|---|
 | Core question | Can this be done? | Should this be done, under what limits, and with what long-term consequences? |

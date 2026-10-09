@@ -1,5 +1,7 @@
 # Keywords and Hashtags
 
+[日本語版はこちら / Japanese version](keywords_ja.md)
+
 ## English Keywords
 
 AI vs Artificial Wisdom, AI vs AW, sustainability simulation, Artificial Wisdom, AW, AI acceleration, civilizational collapse, systemic risk, natural-law-based intelligence, Six Principles, AI safety, AI alignment, AI ethics, regenerative intelligence, civilization OS, Wa-Node, natural law, long-term stability, reversibility, accountability, ecological consistency, human oversight, automation risk
