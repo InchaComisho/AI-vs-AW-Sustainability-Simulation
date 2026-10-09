@@ -1,5 +1,7 @@
 # Assumptions
 
+[日本語版はこちら / Japanese version](assumptions_ja.md)
+
 This repository uses transparent assumptions so that the model can be criticized, improved, or replaced.
 
 ## A1. AI Reflects Human Value Systems

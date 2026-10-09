@@ -1,5 +1,7 @@
 # Simulation Model: AI-only vs AW-guided Intelligence
 
+[日本語版はこちら / Japanese version](simulation-model_ja.md)
+
 This document describes the conceptual simulation model used in this repository.
 
 ## Purpose

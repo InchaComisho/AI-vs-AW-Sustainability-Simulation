@@ -1,5 +1,7 @@
 # Scenarios
 
+[日本語版はこちら / Japanese version](scenarios_ja.md)
+
 This document outlines conceptual scenarios for comparing AI-only acceleration and AW-guided intelligence.
 
 ## Scenario 1: AI-only Acceleration
